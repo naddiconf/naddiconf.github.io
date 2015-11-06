@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #FFF;
+}
+progh1 {
+	font-size: 120%;
+	color: #000;
+}
+progh2 {
+	font-size: 100%;
+	color: #009933;
+}
+progh5 {
+	font-size: 65%;
+}
