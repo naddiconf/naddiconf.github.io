@@ -14,6 +14,24 @@ body {
   margin-right:0px;
 }
 
+.carousel-control {
+  padding-top:10%;
+  width:5%;
+}
+.vertical-align {
+  display: flex;
+  flex-direction: row;
+}
+.vertical-align > [class^="col-"],
+.vertical-align > [class*=" col-"] {
+  display: flex;
+  align-items: center;     /* Align the flex-items vertically */
+  justify-content: center; /* to align inner flex-items horizontally within the column  */
+}
+.carousel-logo {
+max-height: 138px;
+}
+
 /* Wrapper for page content to push down footer */
 #wrap {
   min-height: 100%;
