@@ -1,6 +1,5 @@
 # naddiconf.github.io
-NADDI Conference web site
-
+[NADDI Conference web site](http://naddiconf.org)
 
 #The Premier Data Documentation Conference
 
