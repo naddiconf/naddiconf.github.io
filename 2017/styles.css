@@ -14,24 +14,6 @@ body {
   margin-right:0px;
 }
 
-.carousel-control {
-  padding-top:10%;
-  width:5%;
-}
-.vertical-align {
-  display: flex;
-  flex-direction: row;
-}
-.vertical-align > [class^="col-"],
-.vertical-align > [class*=" col-"] {
-  display: flex;
-  align-items: center;     /* Align the flex-items vertically */
-  justify-content: center; /* to align inner flex-items horizontally within the column  */
-}
-.carousel-logo {
-max-height: 138px;
-}
-
 /* Wrapper for page content to push down footer */
 #wrap {
   min-height: 100%;
@@ -54,42 +36,6 @@ max-height: 138px;
 
 /* Custom page CSS
 -------------------------------------------------- */
-
-
-
-/* Featurettes
-------------------------- */
-
-.featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
-}
-.featurette {
-  padding-top: 120px; /* Vertically center images part 1: add padding above and below text. */
-  overflow: hidden; /* Vertically center images part 2: clear their floats. */
-}
-.featurette-image {
-  margin-top: -120px; /* Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
-}
-
-/* Give some space on the sides of the floated elements so text doesn't run right into it. */
-.featurette-image.pull-left {
-  margin-right: 40px;
-}
-.featurette-image.pull-right {
-  margin-left: 40px;
-}
-
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-size: 50px;
-  font-weight: 300;
-  line-height: 1;
-  letter-spacing: -1px;
-}
-
-
-
-
 
 .center { margin: auto; }
 
@@ -115,7 +61,7 @@ h1,h2,h3,h4 {
 
 header {
   background: #b9d7ec;
-  background: url('/images/Edmonton-Skyline2048.jpg') no-repeat center center; 
+  background: url('/images/cornellskyline2048.jpg') no-repeat center center; 
   background-size:   cover;
   /*height:150px;*/
   color:#000000;
@@ -133,7 +79,7 @@ header {
 
 .bg-2 {
 	background: #b9d7ec;
-	background: url('/images/river2048.jpg') no-repeat center center fixed; 
+	background: url('/images/cayuga2048.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -142,7 +88,7 @@ header {
 
 .bg-3 {
 	background: #b9d7ec;
-	background: url('/images/legislature2048.jpg') no-repeat center center fixed; 
+	background: url('/images/taughannock1907.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -276,7 +222,7 @@ section {
 @media only screen and (max-width: 640px){
 header {
   background: #b9d7ec;
-  background: url('/images/Edmonton-Skyline640.jpg') no-repeat center center; 
+  background: url('/images/cornellskyline640.jpg') no-repeat center center; 
   background-size:   cover;
   /*height:150px;*/
   color:#000000;
@@ -297,7 +243,7 @@ h1, header h1{
 
 .bg-2 {
 	background: #b9d7ec;
-	background: url('/images/river640.jpg') no-repeat center center fixed; 
+	background: url('/images/cayuga640.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -306,7 +252,7 @@ h1, header h1{
 
 .bg-3 {
 	background: #b9d7ec;
-	background: url('/images/legislature640.jpg') no-repeat center center fixed; 
+	background: url('/images/taughannock640.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
