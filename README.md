@@ -1,7 +1,7 @@
 # naddiconf.github.io
 [NADDI Conference web site](http://naddiconf.org)
 
-#The Premier Data Documentation Conference
+# The Premier Data Documentation Conference
 
 The North American Data Documentation Initiative Conference (NADDI) is an opportunity for those 
 using metadata standards and those interested in learning more to come together and learn from 
