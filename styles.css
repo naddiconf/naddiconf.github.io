@@ -124,7 +124,7 @@ header {
 
 .bg-1 {
 	background: #b9d7ec;
-	background: url('/images/uscapital2048.jpg') no-repeat center center fixed; 
+	background: url('/images/ottawacanal2048.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -266,7 +266,7 @@ h1, header h1{
 
 .bg-1 {
 	background: #b9d7ec;
-	background: url('/images/uscapital640.jpg') no-repeat center center fixed; 
+	background: url('/images/ottawacanal640.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
