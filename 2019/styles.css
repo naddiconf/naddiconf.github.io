@@ -1,5 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+
 html,
 body {
   height: 100%;
