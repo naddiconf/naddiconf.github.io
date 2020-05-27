@@ -9,3 +9,4 @@ each other. Modeled on the successful European DDI User Conference, NADDI is a t
 with invited and contributed presentations, and should be of interest to both researchers and data 
 professionals in the social sciences and other disciplines. A full day of training sessions 
 precede the conference.
+
